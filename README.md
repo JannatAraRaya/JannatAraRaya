@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Jannat Ara Ferdouse Raya</h1>
 <h3 align="center"> Software Engineer from Bangladesh</h3>
 <p>I'm Jannat Ara Ferdouse Raya, a budding software enthusiast from Bangladesh. As a dedicated software engineer, I'm on a relentless journey to immerse myself in the intricate world of technology. Currently, my focus is on mastering the intricacies of the MERN stack, where I'm diving deep into the intricacies of MongoDB, Express.js, React, and Node.js. But my aspirations don't stop at development alone. I'm equally captivated by the wonders of data science.</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdouseraya&label=Profile%20views&color=0e75b6&style=flat" alt="ferdouseraya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jannatararaya&label=Profile%20views&color=0e75b6&style=flat" alt="jannatararaya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jannata98952944" target="blank"><img src="https://img.shields.io/twitter/follow/jannata98952944?logo=twitter&style=for-the-badge" alt="jannata98952944" /></a> </p>
 
-- 🌱 I’m currently learning **MangoDB, Node Js**
+- 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/FerdouseRaya](https://github.com/FerdouseRaya)
+- 👨‍💻 All of my projects are available at [https://github.com/JannatAraRaya](https://github.com/JannatAraRaya)
 
-- 💬 Ask me about **HTML,CSS,MongoDB**
+- 💬 Ask me about **HTML,CSS,MongoDB,Node Js, React JS**
 
 - 📫 How to reach me **jannat.ferdouse@bjitgroup.com**
 ---
@@ -58,23 +58,23 @@
 <table align="left">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ferdouseraya&theme=dark&show_icons=true&count_private=true" />
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=jannatararaya&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdouseraya&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jannatararaya&theme=dark&hide_border=false" /> 
 </td>
 
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ferdouseraya&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jannatararaya&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
 
   </td>
 </tr>
 </table>
 <!--- stats (end) -->
 
-<!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferdouseraya&show_icons=true&locale=en&layout=compact" alt="ferdouseraya" /></p>
+<!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jannatararaya&show_icons=true&locale=en&layout=compact" alt="jannatararaya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdouseraya&show_icons=true&locale=en" alt="ferdouseraya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jannatararaya&show_icons=true&locale=en" alt="jannatararaya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdouseraya&" alt="ferdouseraya" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jannatararaya&" alt="jannatararaya" /></p>-->
